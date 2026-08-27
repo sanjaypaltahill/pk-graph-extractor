@@ -1,4 +1,4 @@
-# PK Graph Extracter
+# PK Graph Extractor
 
 Recover the raw numbers behind a published **concentration-time plot**.
 
